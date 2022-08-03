@@ -1,5 +1,5 @@
 [![Generic badge](https://img.shields.io/badge/DIP-Assignment:0-BLUE.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/DUE-23:59hrs,07/08/2020-RED.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/DUE-23:59hrs,07/08/2022-RED.svg)](https://shields.io/)
 # Assignment-0
 In this Assignment you will be going through the following : 
   - Learning about Jupyter Notebooks and basic libraries to be used througout the course.
